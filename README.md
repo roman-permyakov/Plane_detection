@@ -40,4 +40,4 @@ Example images from this class are shown below.</p>
 
 <p><img width="548" alt="image" src =https://raw.githubusercontent.com/roman-permyakov/Plane_detection/dd473c8fe15887a7937cd58f3e6dcd3e96c9da9e//img/no_plane1.png></p>
 
-Inspired by: https://medium.com/@kylepob61392/airplane-image-classification-using-a-keras-cnn-22be506fdb53
+Inspired by [@kylepob61392](https://medium.com/@kylepob61392/airplane-image-classification-using-a-keras-cnn-22be506fdb53)
